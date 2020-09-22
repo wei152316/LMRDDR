@@ -1,2 +1,4 @@
 # Adaptive Weighting Landmark-based Group-wise Registration On Lung DCE-MRI Images
-This repository contains our Matlab code and the expamle results.
+To make readers better understanding our paper, we release our Matlab code and some expamle results.
+
+[new] the multiscale local rigid matching is released.

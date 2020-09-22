@@ -9,6 +9,7 @@ To make readers better understanding our paper, we will release our Matlab code 
 ![image](https://github.com/cainaxin/LMRDDR/blob/master/images/flowchart.jpg)
 
 # results
+## landmark detection results
 ![image](https://github.com/cainaxin/LMRDDR/blob/master/images/show_landmark_v2.jpg)
 
 # cite

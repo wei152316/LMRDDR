@@ -22,6 +22,6 @@ function [newLM_ro,newLM] =  mslrm(refim,im,LM,wc,edge,scale,blocksize,thrc)
     tmp = newLM;
 	%2rd step
     R = vision.internal.detector.HarrisResp(im,newLM);
-    tmp = newLM(R>0.0000,:);
+    tmp = newLM(R>0.02,:);
     newLM_ro = routlier(tmp(:,1:end),3);
 end

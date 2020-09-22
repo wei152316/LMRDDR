@@ -73,7 +73,7 @@ for i = 1:num
         end 
     end
 
-    if abs(wc(1))<10 && f < thrc %筛选变化异常的点
+    if abs(wc(1))<2*pi && f < thrc %筛选变化异常的点
         if exist('wc_his')
             wc = wc_his{end-1};
             w1 = [cos(wc(1)),-sin(wc(1)),wc(2),sin(wc(1)),cos(wc(1)),wc(3)];

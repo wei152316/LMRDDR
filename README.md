@@ -5,7 +5,7 @@ To make readers better understanding our paper, we will release our Matlab code 
 
 [notification] Some functions in FAIR has been modified (e.g. the NGF function).
 
-# results
+# flowchart
 ![image](https://github.com/cainaxin/LMRDDR/blob/master/images/flowchart.jpg)
 
 # results

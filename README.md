@@ -2,6 +2,7 @@
 To make readers better understanding our paper, we release our Matlab code and some expamle results.
 
 [new] the multiscale local rigid matching is released.
+
 [notification] Some functions in FAIR has been modified (e.g. the NGF function).
 
 # cite

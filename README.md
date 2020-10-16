@@ -11,6 +11,7 @@ To make readers better understanding our paper, we will release our Matlab code 
 # results
 ## landmark detection results
 ![image](https://github.com/cainaxin/LMRDDR/blob/master/images/show_landmark_v2.jpg)
+![image](https://github.com/cainaxin/LMRDDR/blob/master/images/show_landmark_pre.jpg)
 
 # cite
 [1] Naxin Cai, et al. "Reducing non-realistic deformations in registration using precise and reliable landmark correspondences." Computers in Biology and Medicine 115.

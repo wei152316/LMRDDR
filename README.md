@@ -1,9 +1,11 @@
 # Adaptive Weighting Landmark-based Group-wise Registration On Lung DCE-MRI Images
 To make readers better understanding our paper, we will release our Matlab code and some expamle results in the next few months.
 
-[new] The multiscale local rigid matching [1] is released.
+The multiscale local rigid matching [1] is released.
 
-[notification] Some functions in FAIR has been modified (e.g. the NGF function).
+Notice: <br>
+1. Some functions in FAIR has been modified (e.g. the NGF function). <br>
+2. we added some new functions in MIRT.
 
 # flowchart
 ![image](https://github.com/cainaxin/LMRDDR/blob/master/images/flowchart.jpg)
